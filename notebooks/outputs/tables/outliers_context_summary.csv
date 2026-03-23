@@ -1,0 +1,12 @@
+flag,n_activations,pct_activations,metric
+out_access_context,2512,100.0,flag_rate
+out_amt_vs_account,471,18.75,flag_rate
+out_ratio_vs_account,471,18.75,flag_rate
+out_amt_vs_merchant,178,7.085987261146497,flag_rate
+out_amt_vs_channel,127,5.055732484076433,flag_rate
+out_time_context,0,0.0,flag_rate
+1,1781,70.9,count_distribution
+2,397,15.8,count_distribution
+3,206,8.2,count_distribution
+4,74,2.95,count_distribution
+5,54,2.15,count_distribution

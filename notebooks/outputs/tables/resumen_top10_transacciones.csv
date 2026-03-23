@@ -1,0 +1,11 @@
+TransactionID,AccountID,MerchantID,Channel,TransactionAmount,risk_score,alert_top_5,risk_reason
+TX000451,AC00495,M075,Online,745.03,20.042739615399864,1,new_device + new_ip + new_merchant + new_location + online + high_ratio + high_velocity
+TX001040,AC00284,M081,Online,575.62,19.375308567217907,1,new_device + new_ip + new_merchant + new_location + online + high_ratio + high_velocity
+TX002192,AC00131,M086,Online,879.25,18.644542608908303,1,new_device + new_ip + new_merchant + new_location + online + high_ratio + many_ips + many_devices
+TX001078,AC00331,M036,Online,1045.45,18.59376591365538,1,new_device + new_ip + new_merchant + new_location + online + high_ratio + high_velocity
+TX001259,AC00020,M017,Branch,603.23,18.57885130258743,1,new_device + new_ip + new_merchant + high_ratio + high_velocity + many_ips + many_devices
+TX000899,AC00083,M078,Online,1531.31,18.450785458105678,1,high_login + new_device + new_ip + new_merchant + new_location + online + high_ratio
+TX001460,AC00460,M052,Branch,659.71,18.256468328375384,1,new_device + new_ip + new_merchant + new_location + high_ratio + many_ips + many_devices
+TX000312,AC00285,M091,Online,1221.65,18.23732861175197,1,new_device + new_ip + new_merchant + new_location + online + high_ratio
+TX000935,AC00456,M091,Branch,1022.75,18.218594234833876,1,new_device + new_ip + new_merchant + new_location + high_ratio + many_ips + many_devices
+TX002222,AC00225,M080,Online,615.16,18.063096834509548,1,new_device + new_ip + new_merchant + new_location + online + high_ratio + many_ips + many_devices

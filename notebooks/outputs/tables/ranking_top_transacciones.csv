@@ -1,0 +1,51 @@
+TransactionID,AccountID,MerchantID,Channel,TransactionAmount,AccountBalance,risk_score,risk_reason,alert_top_1,alert_top_5
+TX000451,AC00495,M075,Online,745.03,160.57,20.042739615399864,new_device + new_ip + new_merchant + new_location + online + high_ratio + high_velocity,1,1
+TX001040,AC00284,M081,Online,575.62,234.41,19.375308567217907,new_device + new_ip + new_merchant + new_location + online + high_ratio + high_velocity,1,1
+TX002192,AC00131,M086,Online,879.25,125.85,18.644542608908303,new_device + new_ip + new_merchant + new_location + online + high_ratio + many_ips + many_devices,1,1
+TX001078,AC00331,M036,Online,1045.45,563.46,18.59376591365538,new_device + new_ip + new_merchant + new_location + online + high_ratio + high_velocity,1,1
+TX001259,AC00020,M017,Branch,603.23,117.98,18.57885130258743,new_device + new_ip + new_merchant + high_ratio + high_velocity + many_ips + many_devices,1,1
+TX000899,AC00083,M078,Online,1531.31,859.86,18.450785458105674,high_login + new_device + new_ip + new_merchant + new_location + online + high_ratio,1,1
+TX001460,AC00460,M052,Branch,659.71,106.86,18.256468328375384,new_device + new_ip + new_merchant + new_location + high_ratio + many_ips + many_devices,1,1
+TX000312,AC00285,M091,Online,1221.65,243.92,18.23732861175197,new_device + new_ip + new_merchant + new_location + online + high_ratio,1,1
+TX000935,AC00456,M091,Branch,1022.75,207.74,18.218594234833873,new_device + new_ip + new_merchant + new_location + high_ratio + many_ips + many_devices,1,1
+TX002222,AC00225,M080,Online,615.16,214.61,18.063096834509548,new_device + new_ip + new_merchant + new_location + online + high_ratio + many_ips + many_devices,1,1
+TX000275,AC00454,M074,ATM,1176.28,323.69,17.748785030748735,high_login + new_device + new_ip + new_merchant + new_location + high_ratio,1,1
+TX000292,AC00284,M067,Online,1036.21,477.3,17.704619052387308,new_device + new_ip + new_merchant + new_location + online + high_ratio,1,1
+TX001416,AC00136,M060,Online,654.49,164.61,17.431576351616524,new_device + new_ip + new_merchant + new_location + online + high_ratio,1,1
+TX001635,AC00358,M066,ATM,1762.28,1380.34,17.376835312446076,new_device + new_ip + new_merchant + new_location + high_velocity,1,1
+TX002274,AC00357,M028,Online,806.97,102.2,17.328178933380773,new_device + new_ip + new_merchant + new_location + online + high_ratio,1,1
+TX001606,AC00257,M009,Branch,620.54,213.36,17.242535783860845,new_device + new_ip + new_merchant + new_location + high_ratio + many_ips + many_devices,1,1
+TX000664,AC00131,M087,Online,288.28,160.83,17.206280454993653,new_device + new_ip + new_merchant + new_location + online + high_ratio + many_ips + many_devices,1,1
+TX001326,AC00020,M085,Online,359.65,219.53,17.087031439019704,new_device + new_ip + new_merchant + new_location + online + high_ratio + many_ips + many_devices,1,1
+TX001996,AC00460,M050,Online,999.28,4272.41,16.983246982144777,new_device + new_ip + new_merchant + new_location + online + many_ips + many_devices,1,1
+TX001535,AC00407,M033,Online,872.72,503.01,16.930945997250287,new_device + new_ip + new_merchant + new_location + online + high_ratio,1,1
+TX001346,AC00204,M067,Online,388.07,289.71,16.908064362519667,new_device + new_ip + new_merchant + new_location + online + high_velocity,1,1
+TX001021,AC00337,M094,Online,309.56,972.04,16.824482494519565,new_device + new_ip + new_merchant + new_location + online + high_velocity,1,1
+TX000692,AC00418,M003,Online,25.94,4815.11,16.804144090613338,high_login + new_device + new_ip + new_merchant + new_location + online + high_velocity,1,1
+TX001348,AC00455,M081,Online,787.41,300.87,16.790660457614656,new_device + new_ip + new_merchant + new_location + online + high_ratio,1,1
+TX001544,AC00362,M061,Online,376.78,841.65,16.739669545204826,new_device + new_ip + new_location + online + high_velocity + many_ips + many_devices,1,1
+TX000206,AC00020,M092,ATM,288.04,1748.02,16.689195654045896,new_device + new_ip + new_merchant + new_location + high_velocity + many_ips + many_devices,1,1
+TX001030,AC00337,M093,ATM,880.04,261.97,16.681199249013844,new_device + new_ip + new_merchant + new_location + high_ratio,0,1
+TX002112,AC00021,M053,ATM,762.74,207.1,16.604132325362432,new_device + new_ip + new_merchant + new_location + high_ratio,0,1
+TX001274,AC00431,M048,Branch,1235.69,420.25,16.591997562315726,new_device + new_ip + new_merchant + new_location + high_ratio,0,1
+TX000756,AC00460,M031,ATM,1607.55,6227.99,16.497304958112355,new_device + new_ip + new_merchant + new_location + many_ips + many_devices,0,1
+TX000034,AC00359,M094,Online,877.81,399.0,16.472793202330035,new_device + new_ip + new_merchant + new_location + online + high_ratio,0,1
+TX000450,AC00407,M034,ATM,689.29,168.84,16.42837447499454,new_device + new_ip + new_merchant + new_location + high_ratio,0,1
+TX002087,AC00029,M068,Branch,1192.95,325.15,16.400605386030165,new_device + new_ip + new_merchant + new_location + high_ratio,0,1
+TX001193,AC00498,M020,Branch,841.5,352.31,16.327480927481094,new_device + new_ip + new_merchant + new_location + high_ratio,0,1
+TX002018,AC00453,M038,Online,270.56,1268.44,16.30377233316939,new_device + new_ip + new_merchant + new_location + online + high_velocity + many_ips + many_devices,0,1
+TX002383,AC00119,M075,ATM,761.73,151.28,16.271845325186263,new_device + new_ip + new_merchant + new_location + high_ratio,0,1
+TX000237,AC00177,M037,Branch,736.73,3313.07,16.174757361657413,new_device + new_ip + new_merchant + new_location + high_velocity + many_ips + many_devices,0,1
+TX001121,AC00362,M022,Branch,268.92,8765.38,16.14502567971359,new_device + new_ip + new_merchant + new_location + high_velocity + many_ips + many_devices,0,1
+TX002125,AC00039,M037,Branch,737.46,634.16,16.125256732570477,high_login + new_device + new_ip + new_merchant + new_location,0,1
+TX000902,AC00363,M044,Online,643.38,1046.74,16.11363871603676,new_device + new_ip + new_merchant + new_location + online + many_ips + many_devices,0,1
+TX000530,AC00265,M070,Online,1063.25,1240.71,16.10188895400057,new_device + new_ip + new_merchant + new_location + online + many_ips + many_devices,0,1
+TX000014,AC00264,M025,ATM,781.76,189.69,16.087520145707643,new_device + new_ip + new_merchant + new_location + high_ratio,0,1
+TX002278,AC00177,M045,Branch,311.28,135.96,16.075763424907034,new_device + new_ip + new_merchant + new_location + high_ratio + many_ips + many_devices,0,1
+TX002195,AC00418,M037,Online,1047.69,1889.78,16.04789054278152,new_device + new_ip + new_merchant + new_location + online + high_velocity,0,1
+TX001768,AC00398,M054,Online,473.2,248.52,16.03197049946145,new_device + new_ip + new_merchant + new_location + online + high_ratio,0,1
+TX001668,AC00495,M084,Branch,206.95,1817.65,16.00902402713195,new_device + new_ip + new_merchant + new_location + high_velocity,0,1
+TX002202,AC00385,M075,Online,1431.54,1171.98,15.999704640659186,new_device + new_ip + new_merchant + new_location + online,0,1
+TX001279,AC00297,M007,Online,587.23,500.84,15.991259204461457,new_device + new_ip + new_merchant + new_location + online + many_ips + many_devices,0,1
+TX000548,AC00456,M052,ATM,97.09,1579.57,15.979474348599476,high_login + new_device + new_ip + new_merchant + new_location + many_ips + many_devices,0,1
+TX001119,AC00202,M044,Online,461.25,676.1,15.941130424922246,new_device + new_ip + new_merchant + new_location + online + many_ips + many_devices,0,1
